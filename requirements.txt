@@ -1,0 +1,5 @@
+pandas
+pyarrow
+apache-airflow-providers-postgres
+python-dotenv
+sqlalchemy
